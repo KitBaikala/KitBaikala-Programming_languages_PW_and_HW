@@ -44,7 +44,7 @@
 // int size = Convert.ToInt32(Console.ReadLine());
 // int[] numbers = new int[size];
 // FillArrayRandomNumbers(numbers);
-// Console.WriteLine("Масиив: ");
+// Console.WriteLine("Масив: ");
 // PrintArray(numbers);
 // int count = 0;
 
@@ -104,25 +104,25 @@
 // Задача 3: Напишите программу, которая перевернёт одномерный массив 
 // (первый элемент станет последним, второй – предпоследним и т.д.)
 
-using System;
+// using System;
  
-public class Example
-{
-    public static void Main()
-    {
-        int[] array = { 5, 6, 4, 5, 9, 10 };
-        int[] numbers = array;
-        Console.Write("Исходный массив: ");
-        foreach (int number in numbers)
-         {
-             Console.Write(number + " ");
-         }
-        Array.Reverse(array);
+// public class Example
+// {
+//     public static void Main()
+//     {
+//         int[] array = { 5, 6, 4, 5, 9, 10 };
+//         int[] numbers = array;
+//         Console.Write("Исходный массив: ");
+//         foreach (int number in numbers)
+//          {
+//              Console.Write(number + " ");
+//          }
+//         Array.Reverse(array);
  
-        Console.Write("\nПеревернутый массив: ");
-        Console.WriteLine(String.Join(',', array));
-    }
-}
+//         Console.Write("\nПеревернутый массив: ");
+//         Console.WriteLine(String.Join(',', array));
+//     }
+// }
 // Решение рабочее
 
 // Решение 3 задачи из примера
