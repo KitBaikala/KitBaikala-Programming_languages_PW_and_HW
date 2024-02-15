@@ -1,0 +1,16 @@
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\Seminar_7_Рекурсия.exe
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\Seminar_7_Рекурсия.deps.json
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\Seminar_7_Рекурсия.runtimeconfig.json
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\Seminar_7_Рекурсия.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\ref\Seminar_7_Рекурсия.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\bin\Debug\net6.0\Seminar_7_Рекурсия.pdb
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.GlobalUsings.g.cs
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.csproj.AssemblyReference.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.AssemblyInfoInputs.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.AssemblyInfo.cs
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.csproj.CoreCompileInputs.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\ref\Seminar_7_Рекурсия.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.pdb
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_Рекурсия\obj\Debug\net6.0\Seminar_7_Рекурсия.genruntimeconfig.cache
