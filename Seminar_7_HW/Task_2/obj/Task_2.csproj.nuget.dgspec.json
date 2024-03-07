@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Seminar_7_HW.csproj": {}
+    "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Task_2\\Task_2.csproj": {}
   },
   "projects": {
-    "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Seminar_7_HW.csproj": {
+    "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Task_2\\Task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Seminar_7_HW.csproj",
-        "projectName": "Seminar_7_HW",
-        "projectPath": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Seminar_7_HW.csproj",
+        "projectUniqueName": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Task_2\\Task_2.csproj",
+        "projectName": "Task_2",
+        "projectPath": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Task_2\\Task_2.csproj",
         "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\obj\\",
+        "outputPath": "C:\\Андрей\\GB\\Знакомство с языками программирования\\Практика\\Home Work Seminare\\Seminar's_PW_and_HW\\Seminar_7_HW\\Task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config"

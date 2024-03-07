@@ -1,0 +1,16 @@
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\Task_2.exe
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\Task_2.deps.json
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\Task_2.runtimeconfig.json
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\Task_2.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\ref\Task_2.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\bin\Debug\net6.0\Task_2.pdb
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.GlobalUsings.g.cs
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.csproj.AssemblyReference.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfoInputs.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.AssemblyInfo.cs
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.csproj.CoreCompileInputs.cache
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\ref\Task_2.dll
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.pdb
+C:\Андрей\GB\Знакомство с языками программирования\Практика\Home Work Seminare\Seminar's_PW_and_HW\Seminar_7_HW\Task_2\obj\Debug\net6.0\Task_2.genruntimeconfig.cache
